@@ -11,6 +11,7 @@ pip install -r requirements.txt
 ## Entraînement du modèle
 > Exécutez le script train_model.py pour entraîner et sauvegarder le modèle :
 python train_model.py
+> il vous est proposé de télécharger les poids du modèle entrainé au [lien] suivant (https://drive.google.com/file/d/1Q3OTkE4M2kIPIZWH5viIwG3gZQZHJiJl/view?usp=drive_link)
 
 ## Démonstration avec Gradio
 > Exécutez le script gradio_demo.py pour lancer la démonstration interactive
