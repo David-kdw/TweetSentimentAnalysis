@@ -1,0 +1,9 @@
+torch
+transformers
+pandas
+tqdm
+scikit-learn
+gradio
+fastapi
+uvicorn
+pydantic
